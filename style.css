@@ -1,0 +1,99 @@
+
+.ram{
+    border:2px solid;
+}
+.row{
+    padding: 0;
+}
+.logopic{
+    height: 120px;
+    width:130px;
+}
+.menu{
+
+align-items: center;
+justify-content: center;
+padding: 20px;
+
+
+}
+.menu li{
+    
+
+display: inline-block;
+padding: 20px;
+
+}
+.color{
+    background-color: rgb(128, 128, 128);
+}
+/* slider */
+
+body,footer{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    background-color:  rgb(128, 128, 128);
+    
+    padding: 20px 0;
+}
+
+.card{
+    
+    height:210px;
+    width:250px
+    
+} 
+
+.container{
+    margin-bottom: 20px;
+}
+/* gallary */
+.gl{
+height:100px;
+width:220px;
+
+}
+.glarray{
+margin-bottom: 40px;
+
+}
+.imgpic{
+height:290px;
+width:300px;
+}
+/* about */
+.aboutpic{
+height: 230px;
+width:240px;
+border:2px solid;
+border-radius: 50%;
+}
+/* register */
+.frm{
+margin-left: 325px;
+opacity:.5;
+}
+.btc{
+margin-left:230px;
+}
+
+/* background register */
+.rambk{
+
+background-size:cover;
+background-image:url("back3.jpg");
+background-repeat:no-repeat;
+}
+/* background login */
+.backlg{
+
+background-size:cover;
+background-image:url(back6.webp);
+background-repeat:no-repeat;
+}
+
+
+
+
